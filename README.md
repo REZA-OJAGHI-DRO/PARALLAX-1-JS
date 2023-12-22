@@ -9,7 +9,7 @@
 
 - Created - 2023-12-5
 
-- Technologies Used - Html , sass , bootstrap , js ,VISA CART
+- Technologies Used - Html , sass , bootstrap , js , TEMPLATE PARALLAX
 
 - Hooks Used : useState 
 
